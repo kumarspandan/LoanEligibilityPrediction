@@ -1,2 +1,0 @@
-Age,"Gender (1=Male, 0=Female)",Dependents,"Education (1=Graduate, 0=Not Graduate)","Self Employed (1=Yes, 0=No)",Applicant Income,Coapplicant Income,Loan Amount,Loan Amount Term,"Credit History (1=Good, 0=Bad)","Property Area (1=Urban, 0=Rural)",output,timestamp
-1,1,4,1,3036,2054,158,360,0,1,1,Loan Not Approved,2024-10-17 22:11:48.086403
