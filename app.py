@@ -7,7 +7,7 @@ from streamlit_option_menu import option_menu
 st.set_page_config(page_title="Loan Eligibility Prediction", layout="wide", page_icon="🏦")
 
 # Loading my trained SVM model
-mymodel_path = "C:/Users/LENOVO/Desktop/LoanEligibilityPrediction/savedModels/svmloan.sav"
+mymodel_path = "C:/Users/LENOVO/Desktop/GithubProjects/LoanEligibilityPrediction/savedModels/svmloan.sav"
 svm_model = pickle.load(open(mymodel_path, 'rb'))
 
 # Sidebar for navigation (only keep SVM option)
